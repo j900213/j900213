@@ -7,11 +7,11 @@
 
 ### Languages and Tools:
 
-<img align="left" height="22" width="22" src="./Icon/c-programming.png" />
-<img align="left" height="22" width="22" src="./Icon/c-plusplus.png" />
-<img align="left" height="22" width="22" src="./Icon/python.png" />
-<img align="left" height="22" width="22" src="./Icon/matlab.png" />
-<img align="left" height="22" width="22" src="./Icon/linux.png" />
+<img align="left" height="26" width="26" src="./Icon/c-programming.png" />
+<img align="left" height="26" width="26" src="./Icon/c-plusplus.png" />
+<img align="left" height="26" width="26" src="./Icon/python.png" />
+<img align="left" height="26" width="26" src="./Icon/matlab.png" />
+<img align="left" height="26" width="26" src="./Icon/linux.png" />
 
 ### You can also find me on:
 
