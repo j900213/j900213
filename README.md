@@ -54,5 +54,13 @@ I'm a Taiwanese software engineer working in the Netherlands:
 
 :zap: GitHub Stats
 
-<img align="left" alt="Jet Chang's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" /> &nbsp;
-<img alt="Jet Chang's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j900213&hide=html&layout=compact" />
+<!-- <img align="left" alt="Jet Chang's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" /> &nbsp;
+<img alt="Jet Chang's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j900213&hide=html&layout=compact" /> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
