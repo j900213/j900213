@@ -48,6 +48,6 @@ I'm a Taiwanese software engineer working in the Netherlands:
   
   <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j900213&hide=makefile,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j900213&hide=makefile,html)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
