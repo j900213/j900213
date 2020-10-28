@@ -37,6 +37,13 @@ I'm a Taiwanese software engineer working in the Netherlands:
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" />
