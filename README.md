@@ -1,6 +1,7 @@
-### Hey folks, I'm Jet :stuck_out_tongue_winking_eye: a.k.a the most consistent Taiwanese water drinker
+### Hey folks, I'm Jet
 
-<br />
+- a.k.a the most consistent water drinker
+- a.k.a the most inconsistent github contributor
 
 ---
 
