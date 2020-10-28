@@ -6,7 +6,7 @@
 I'm a Taiwanese software engineer working in the Netherlands:
 
 - :mortar_board: I'm currently refining my master's graduation project [DPSolver2D][graduationproject]
-- :computer:I'm currently building my personal website as a side project
+- :computer: I'm currently building my personal website as a side project
 - :book: I'm currently learning more about C++ data structure
 
 ---
@@ -43,9 +43,18 @@ I'm a Taiwanese software engineer working in the Netherlands:
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
