@@ -54,8 +54,6 @@ I'm a Taiwanese software engineer working in the Netherlands:
 
 :zap: GitHub Stats
 
-<img alt="Jet Chang's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" />
-
-  <br />
+<img align="left" alt="Jet Chang's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" /> &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j900213&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
