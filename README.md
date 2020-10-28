@@ -3,6 +3,12 @@
 - a.k.a the most consistent water drinker
 - a.k.a the most inconsistent github contributor
 
+I'm a Taiwanese software engineer working in the Netherlands:
+
+- I'm currently refining my master's graduation project [DPSolver2D][graduationproject]
+- I'm currently building my personal website as a side project
+- I'm currently learning more about C++ data structure
+
 ---
 
 ### Languages and Tools:
@@ -15,7 +21,7 @@
 <img align="left" height="30" width="30" src="./Icon/git.png" />
 <img align="left" height="30" width="30" src="./Icon/javascript.png" />
 <img align="left" height="30" width="30" src="./Icon/html.png" />
-<img align="left" height="30" width="30" src="./Icon/css.png" />
+<img  height="30" width="30" src="./Icon/css.png" />
 
 ### You can also find me on:
 
@@ -26,3 +32,4 @@
 [linkedin]: https://www.linkedin.com/in/jet-chang/
 [instagram]: https://www.instagram.com/j900213/
 [facebook]: https://www.facebook.com/jet.chang.520
+[graduationproject]: https://github.com/j900213/DPSolver2D
