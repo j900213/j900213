@@ -37,13 +37,6 @@ I'm a Taiwanese software engineer working in the Netherlands:
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img alt="Jet Chang's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" />
@@ -53,6 +46,8 @@ I'm a Taiwanese software engineer working in the Netherlands:
 <details>
   <summary>:zap: Most Used Languages</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j900213)](https://github.com/anuraghazra/github-readme-stats)
+  <br />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j900213&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
