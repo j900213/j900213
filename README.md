@@ -7,10 +7,11 @@
 
 ### Languages and Tools:
 
-<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img height="22" width="22" src="./Icon/c-programming.png" />
+<img height="22" width="22" src="./Icon/c-plusplus.png" />
+<img height="22" width="22" src="./Icon/python.png" />
+<img height="22" width="22" src="./Icon/matlab.png" />
+<img height="22" width="22" src="./Icon/linux.png" />
 
 ### You can also find me on:
 
