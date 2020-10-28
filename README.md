@@ -7,7 +7,10 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
 ### You can also find me on:
 
