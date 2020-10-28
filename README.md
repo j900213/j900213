@@ -5,9 +5,9 @@
 
 I'm a Taiwanese software engineer working in the Netherlands:
 
-- I'm currently refining my master's graduation project [DPSolver2D][graduationproject]
-- I'm currently building my personal website as a side project
-- I'm currently learning more about C++ data structure
+- :mortar_board: I'm currently refining my master's graduation project [DPSolver2D][graduationproject]
+- :computer:I'm currently building my personal website as a side project
+- :book: I'm currently learning more about C++ data structure
 
 ---
 
@@ -33,3 +33,12 @@ I'm a Taiwanese software engineer working in the Netherlands:
 [instagram]: https://www.instagram.com/j900213/
 [facebook]: https://www.facebook.com/jet.chang.520
 [graduationproject]: https://github.com/j900213/DPSolver2D
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.j900213.vercel.app/api?username=j900213&show_icons=true&hide_border=true" />
+
+</details>
