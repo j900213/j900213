@@ -1,13 +1,9 @@
-### Hey folks, I'm Jet :stuck_out_tongue_winking_eye:
+### Hello, I'm Jet :stuck_out_tongue_winking_eye:
 
 - a.k.a the most consistent water drinker
 - a.k.a the most inconsistent github contributor
 
-I'm a Taiwanese software engineer working in the Netherlands:
-
-- :mortar_board: I'm currently refining my master's graduation project [DPSolver2D][graduationproject]
-- :computer: I'm currently building my personal website as a side project
-- :book: I'm currently learning more about C++ data structure
+I'm a software engineer based in the Netherlands.
 
 ---
 
